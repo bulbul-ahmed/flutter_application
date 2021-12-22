@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "418240705658",
+    "firebase_url": "https://cbdcurbside-default-rtdb.firebaseio.com",
+    "project_id": "cbdcurbside",
+    "storage_bucket": "cbdcurbside.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418240705658:android:467a719f34171caa9bf7c3",
+        "android_client_info": {
+          "package_name": "com.cbdcurbside.markets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418240705658-eq0k83ol6allq9tjaobp7tuc6hoipnku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMMsF8WRiQxJMM1mdxGKs0qSLACqeXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418240705658-eq0k83ol6allq9tjaobp7tuc6hoipnku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418240705658-2ouem9q8klk1jpm6u479s885d41h8teb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.curbside.marketsdeliveryboy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418240705658:android:87eccc2c1b3a6e4f9bf7c3",
+        "android_client_info": {
+          "package_name": "com.curbside.marketsdeliveryboy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418240705658-eq0k83ol6allq9tjaobp7tuc6hoipnku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMMsF8WRiQxJMM1mdxGKs0qSLACqeXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418240705658-eq0k83ol6allq9tjaobp7tuc6hoipnku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418240705658-2ouem9q8klk1jpm6u479s885d41h8teb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.curbside.marketsdeliveryboy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418240705658:android:b8b15a7e8c2ef9539bf7c3",
+        "android_client_info": {
+          "package_name": "com.curbside.owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418240705658-eq0k83ol6allq9tjaobp7tuc6hoipnku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmMMsF8WRiQxJMM1mdxGKs0qSLACqeXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418240705658-eq0k83ol6allq9tjaobp7tuc6hoipnku.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "418240705658-2ouem9q8klk1jpm6u479s885d41h8teb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.curbside.marketsdeliveryboy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
